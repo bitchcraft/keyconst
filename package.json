@@ -1,6 +1,6 @@
 {
 	"name": "@bitchcraft/keyconst",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"private": false,
 	"description": "Creates a keymirrored Object from an Array of string keys",
 	"license": "BSD-3-Clause",
@@ -51,6 +51,6 @@
 	},
 	"author": "Josh Li (https://github.com/maddrag0n)",
 	"contributors": [],
-	"main": "dist/keyconst.es5.js",
+	"main": "lib/keyconst.es5.js",
 	"repository": "https://github.com/bitchcraft/unicorn-logger"
 }
