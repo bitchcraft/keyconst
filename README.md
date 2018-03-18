@@ -1,5 +1,7 @@
 # @bitchcraft/keyconst
 
+[![CircleCI](https://circleci.com/gh/bitchcraft/keyconst.svg?style=svg&circle-token=69d3c9d2628a9dd23c9c4e14c4b19e5e742f3e96)](https://circleci.com/gh/bitchcraft/keyconst)
+
 Create an object where values are identical to its key names. Inspired by [keymirror](http://yarn.pm/keymirror) and Facebook’s react/lib/keyMirror, keyconst reduces the amount of code to create new key constants in objects.
 
 Instead of
