@@ -4,7 +4,9 @@
 	"private": false,
 	"description": "Creates a keymirrored Object from an Array of string keys",
 	"license": "BSD-3-Clause",
-	"dependencies": {},
+	"dependencies": {
+		"set-value": "^3.0.1"
+	},
 	"devDependencies": {
 		"@babel/cli": "^7.0.0",
 		"@babel/core": "^7.0.0",
